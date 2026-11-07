@@ -10,25 +10,44 @@
 </a>
 </div>
 
----
-
-## 👨‍💻 About Me
+## About Me
 
 - 🔭 Currently building **basic to advanced React JS and Vanilla JS projects**
 - 🌱 Expanding my skills toward becoming an industry-ready **Full-Stack Engineer** (Front-End & Back-End)
 - 💬 Ask me about **React, TypeScript, and JavaScript**
-- ⚽ Off-the-clock: You'll find me playing football 
+- ⚽ Off-the-clock: You'll find me playing football
 
-## 🎯 2026 Goals
+<h2>Selected work</h2>
 
-- 🌐 Master industry-standard Front-End & Back-End architecture
-- 🚀 Ship production-ready full-stack applications
-- 💼 Land a high-impact engineering role
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=sarfarosh-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227625240%3Fu%3D9c92565270083fef45dfb8b5261c0912b3ffd80a%26v%3D4&repos=sarfarosh-0%2FBinGo%2Csarfarosh-0%2Fkrishi-sathi%2Csarfarosh-0%2FExpense-Tracker%2Csarfarosh-0%2FKisanSetu&v=recruiter-projects-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sarfarosh-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227625240%3Fu%3D9c92565270083fef45dfb8b5261c0912b3ffd80a%26v%3D4&repos=sarfarosh-0%2FBinGo%2Csarfarosh-0%2Fkrishi-sathi%2Csarfarosh-0%2FExpense-Tracker%2Csarfarosh-0%2FKisanSetu&v=recruiter-projects-1&mode=dark" width="100%" alt="Sarfarosh Alam selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Sarfarosh-0/BinGo">BinGo</a></h3>
+<p>Snap a photo of any piece of waste — BinGo tells you exactly how to dispose of it, entirely on-device with no data ever leaving your phone.</p>
+<p><sub>JavaScript · ⭐ 2 · 🍴 2</sub></p>
+<p><a href="https://github.com/Sarfarosh-0/BinGo">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-## 🚀 Tech Stack
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sarfarosh-0/krishi-sathi">krishi-sathi</a></h3><p>Krishi Sathi is a Hindi-first AI farming advisor helping smallholder farmers near Lucknow prevent crop losses through timely pest detection, stage-bas</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sarfarosh-0/Expense-Tracker">Expense-Tracker</a></h3><p>A responsive, full-featured web app for managing personal finances. Built with vanilla JavaScript and Tailwind CSS .</p><p><sub>CSS · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sarfarosh-0/KisanSetu">KisanSetu</a></h3><p>KisanSetu (&quot;Farmer's Bridge&quot;) is an open, transparent digital agricultural marketplace designed to transform how produce moves from Indian farms to bu</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+## Tech Stack
 
 <!-- Languages -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=%20Programming%20Languages&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -43,7 +62,7 @@
 ---
 
 <!-- Frontend -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=%20Frontend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -55,7 +74,6 @@
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
 
-
 </tr>
 </table>
 </div>
@@ -63,7 +81,7 @@
 ---
 
 <!-- Backend -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=⚙️%20Backend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=%20Backend%20Development&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -77,7 +95,7 @@
 ---
 
 <!-- Databases -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🗄️%20Databases&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=%20Databases&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -93,7 +111,7 @@
 ---
 
 <!-- Others -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=🎨%20Other%20Tools&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=40&section=header&text=%20Other%20Tools&fontSize=20&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center"><br/>
 <table>
@@ -110,20 +128,39 @@
 
 <br>
 
-## 📫 Connect With Me
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarfarosh-xxi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sarfaroshalam51@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/sarfarosh-0" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=sarfarosh-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227625240%3Fu%3D9c92565270083fef45dfb8b5261c0912b3ffd80a%26v%3D4&v=recruiter-stack-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sarfarosh-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227625240%3Fu%3D9c92565270083fef45dfb8b5261c0912b3ffd80a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Sarfarosh Alam technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>44% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
+
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sarfarosh-0&theme=zen" alt="sarfarosh-0 contribution activity" />
 </p>
 
 <div align="center">
-  <p>📧 Feel free to reach out - I'm always happy to help!</p>
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://sarfarosh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<p>📧 Feel free to reach out - I'm always happy to help!</p>
+
 </div>
