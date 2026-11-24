@@ -124,29 +124,6 @@
 </table>
 </div>
 
----
-
-<br>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=sarfarosh-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227625240%3Fu%3D9c92565270083fef45dfb8b5261c0912b3ffd80a%26v%3D4&v=recruiter-stack-1&mode=dark" />
-  <img src="https://www.gitskins.com/api/section/stack?username=sarfarosh-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227625240%3Fu%3D9c92565270083fef45dfb8b5261c0912b3ffd80a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Sarfarosh Alam technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>44% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>25% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>11% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
-</tr>
-</table>
-
 <div align="center">
 
 ## 🤝 Let's Build Something Meaningful
