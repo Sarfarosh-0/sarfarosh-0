@@ -147,12 +147,6 @@
 </tr>
 </table>
 
-## Learning streak
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sarfarosh-0&theme=zen" alt="sarfarosh-0 contribution activity" />
-</p>
-
 <div align="center">
 
 ## 🤝 Let's Build Something Meaningful
