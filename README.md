@@ -126,7 +126,7 @@
 
 <div align="center">
 
-## 🤝 Let's Build Something Meaningful
+##  Let's Build Something Meaningful
 
 I build useful software and enjoy turning ambitious ideas into working products.
 
